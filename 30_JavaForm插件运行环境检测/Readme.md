@@ -18,5 +18,5 @@
 
 ### 运行结果样例
 
-![](样例Example.jpg)
+![[样例Example.jpg (github.com)](https://github.com/freeyacn/OracleERP/blob/master/30_JavaForm插件运行环境检测/样例Example.jpg)]()
 
